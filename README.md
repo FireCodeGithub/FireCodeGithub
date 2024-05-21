@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FireHallGithub&label=Profile%20views&color=000000&style=plastic" alt="fireballgithub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fireballgithub" alt="fireballgithub" /></a> </p>
 
 - Je travaille actuellement sur **All of me**
 
