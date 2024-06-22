@@ -28,7 +28,7 @@
     <td width="50%">
       <h3 align="center">Weather App</h3>
       <p align="center">
-        <img src="https://github.com/FireCodeGithub/WeatherApp/blob/main/demo.gif" alt="bad_pong" width="100%" />
+        <img src="" alt="bad_pong" width="100%" />
       </p>
       <p align="center">
         <a href="https://github.com/FireCodeGithub/bad_pong">View Project</a>
