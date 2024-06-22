@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/107129871?v=4" width="100" height="100">
+  <img src="[https://avatars.githubusercontent.com/u/107129871?v=4](https://avatars.githubusercontent.com/u/170349869?v=4)" width="100" height="100">
 </p>
 <h3 align="center">Hi, I'm FireCodeGithub, a passionate developer dedicated to building impactful software solutions.</h3>
 
@@ -24,22 +24,14 @@
 <h2 align="center">Projects</h2>
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Portfolio Website</h3>
-      <p align="center">
-        <img src="https://github.com/FireCodeGithub/PortfolioWebsite/blob/main/demo.gif" alt="Portfolio Website Demo" width="100%" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/FireCodeGithub/PortfolioWebsite">View Project</a>
-      </p>
     </td>
     <td width="50%">
       <h3 align="center">Weather App</h3>
       <p align="center">
-        <img src="https://github.com/FireCodeGithub/WeatherApp/blob/main/demo.gif" alt="Weather App Demo" width="100%" />
+        <img src="https://github.com/FireCodeGithub/WeatherApp/blob/main/demo.gif" alt="bad_pong" width="100%" />
       </p>
       <p align="center">
-        <a href="https://github.com/FireCodeGithub/WeatherApp">View Project</a>
+        <a href="https://github.com/FireCodeGithub/bad_pong">View Project</a>
       </p>
     </td>
   </tr>
