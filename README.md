@@ -20,26 +20,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<!-- Projects Section -->
-<h2 align="center">Projects</h2>
-<table>
-  <tr>
-    </td>
-    <td width="50%">
-      <h3 align="center">Weather App</h3>
-      <p align="center">
-        <img src="" alt="bad_pong" width="100%" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/FireCodeGithub/bad_pong">View Project</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 <!-- Contact Section -->
 <h2 align="center">Contact</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/FireCodeGithub/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:firecodegithub@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
