@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/107129871?v=4](https://avatars.githubusercontent.com/u/170349869?v=4)" width="100" height="100">
+  <img src="[https://avatars.githubusercontent.com/u/107129871?v=4]([https://avatars.githubusercontent.com/u/170349869?v=4](https://avatars.githubusercontent.com/u/107129871?v=4))" width="100" height="100">
 </p>
 <h3 align="center">Hi, I'm FireCodeGithub, a passionate developer dedicated to building impactful software solutions.</h3>
 
