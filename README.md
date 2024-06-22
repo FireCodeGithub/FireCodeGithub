@@ -2,6 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I'm+FireCodeGithub;Welcome+to+my+GitHub+Profile!" />
   <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 </h1>
 
 <!-- Introduction -->
