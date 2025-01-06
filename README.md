@@ -1,6 +1,6 @@
 <!-- Profile Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&size=22&duration=2000&pause=500&color=000000&random=true&width=435&lines=Hello+!;I+am+FireBall;Welcome+on+my+Github+!" alt="Typing SVG" /></a>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I'm+FireCodeGithub;Welcome+to+my+GitHub+Profile!" />
   <img src="https://widgetbite.com/stats/{FireCodeGithub}" alt="watching_count" />
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/FireCodeGithub?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 </h1>
